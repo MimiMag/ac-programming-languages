@@ -136,6 +136,8 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
 
 * **Dynamic allocation of memory** allows building complex data structures such as linked lists. Allocating memory dynamically helps us to store data without initially knowing the size of the data in the time we wrote the program.
 
+* A **linked list** is a called a data structure where each element is a separate object and has a reference to the next element. Element are commonly called nodes.
+
 # Imperative & Declarative programming languages
 
 *C is an imperative programming language.*
