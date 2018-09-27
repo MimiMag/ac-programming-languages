@@ -166,5 +166,9 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
 > 🎓 See [this cool presentation about procedural programming](https://prezi.com/gaq2b6rm5h_a/basics-of-procedural-programming/)
 
 # How to run the code examples in this repo
+## Hello world & Linked Lists
 * Run the a.out file in your terminal
 * Run a compiler (like gcc on mac) for a specific file, run the a.out file that is generated.
+
+## Arduino
+* You need the [arduino editor](https://www.arduino.cc/en/Main/Software). Copy the code in there, make sure you have the additional library `oneqire 2.3.4`
