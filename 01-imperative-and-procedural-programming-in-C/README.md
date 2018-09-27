@@ -138,7 +138,8 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
   * it is sequential
 
 * Imperative vs Declarative language
-  | .|Imperative|Declarative|
+
+  | |Imperative|Declarative|
   |---|---|---|
   |**language example** | C | SQL |
   |**instructions focus**|What computer should do, step by step | What result should be like |
