@@ -52,6 +52,7 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
 
 * `|` - or operator: 
   * it takes to numbers, to binary values and 'ors'  them:
+
     |A|B|R|
     |---|---|---|
     |0|0|0|
@@ -60,6 +61,7 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
     |1|1|1|
 
   * In this way, you could compare two numbers:
+  
     input1 | 21 | 1 |0|1|0|1|
     |---|---|---|---|---|---|---|
     |input2|14|0|1|1|1|0|
