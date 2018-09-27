@@ -1,27 +1,27 @@
 # Imperative and procedural programming in C
 
-## Content
+# Content
 
-* Intro - Programming in C
-* Kata - Demo
-* Using C - Intro and Tutorial
-* Imperative and Declarative programming
-* How to run the Code Examples in this repo
+* [Intro - Programming in C](#Intro---Programming-in-C)
+* [Kata - Demo](#Kata---Demo)
+* [Using C - Intro and Tutorial](#Using-C)
+* [Imperative and Declarative programming](#Imperative-&-Declarative-programming-languages)
+* [How to run the Code Examples in this repo](#How-to-run-the-code-examples-in-this-repo)
 
-## Intro - Programming in C
+# Intro - Programming in C
 * C = low level programming language
     * It is very close to CPU instructions
     * Also called, close to the metal
     * One lower level is Assembly, where you use CPU instructions directly
 * C is a compiled language - which means that in order to run it, the compiler (for example, GCC or Visual Studio) must take the code that we wrote, process it, and then create an executable file. This file can then be executed, and will do what we intended for the program to do.
 
-## Kata/Demo
-### Assignment:
+# Kata - Demo
+## Assignment:
  * Convert hexadecimals into bytes
  * Your program should take two characters as input (like 'A', and 'B') and should transform it into a numeral value.
 
-### Intro
-#### Number systems
+## Intro
+### Number systems
 ![number systems](http://www.electronicsengineering.nbcafe.in/wp-content/uploads/2014/09/number-systems.png)
 
 There are several ways to represent numbers:
@@ -48,7 +48,7 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
 
 > 🎓 4 bits are also called a `nibble`
 
-#### Operators you are allowed to use.
+### Operators you are allowed to use.
 
 * `|` - or operator: 
   * it takes to numbers, to binary values and 'ors'  them:
@@ -61,7 +61,7 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
     |1|1|1|
 
   * In this way, you could compare two numbers:
-  
+
     input1 | 21 | 1 |0|1|0|1|
     |---|---|---|---|---|---|---|
     |input2|14|0|1|1|1|0|
@@ -74,19 +74,19 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
 > ![](https://cd.sseu.re/JavaScript_Bitwise_2018-09-27_11-09-33.png)
 
 
-### Demo
+## Demo
 * Not available here, so go and try, or join an advanced class next time 😉. Make sure to use TDD to fix this assignment!
 ![TDD mantra](http://lewandowski.io/images/tdd_flow.gif)
 
-## Using C
-### What C is good at:
+# Using C
+## What C is good at:
 * Cross-platform programming.
 * Embedded and small-device programming.
 * Operating system or kernel programming, or related areas such as writing device drivers.
 * Other “system” areas such as database engines and kernels, networking code, etc.
 * Other code that needs to be very high-performance, particularly if it has a “state machine” element where you really want to know what the code is doing at all times.
 
-### Differences between C and Javascript:
+## Differences between C and Javascript:
 * JavaScript is a dynamic language!
 * Variables are not strongly-typed
 * No native support for namespaces and classes (until ES6)
