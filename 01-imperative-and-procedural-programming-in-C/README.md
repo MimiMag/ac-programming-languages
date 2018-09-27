@@ -132,12 +132,16 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
     ![](https://cd.sseu.re/Pointers_-_Learn_C_-_Free_Interactive_C_Tutorial_2018-09-27_12-30-46.png)
   * **Dereferencing** is the act of referring to where the pointer points, instead of the memory address.
 
+* **Function arguments** are passed by value, which means they are copied in and out of functions. But what if we copied pointers to values instead of the values themselves? This will enable us to give functions control over variables and structures of the parent functions, and not just a copy of them.
+
+* **Dynamic allocation of memory** allows building complex data structures such as linked lists. Allocating memory dynamically helps us to store data without initially knowing the size of the data in the time we wrote the program.
+
 # Imperative & Declarative programming languages
 
-* C is an imperative programming language.
-  * it is sequential
+*C is an imperative programming language.*
 
-* Imperative vs Declarative language
+
+* **Imperative vs Declarative language**
 
   | |Imperative|Declarative|
   |---|---|---|
@@ -147,7 +151,7 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
 
 > 🎓 See more info on imperative vs declarative programming [here](https://medium.com/front-end-hacking/imperative-versus-declarative-code-whats-the-difference-adc7dd6c8380)
 
-* Structural Programming
+* **Structural Programming**
   * Especially important for declarative programming languages, since you can't adjust the scope of your variables too much.
   * How to structure your program such a way that you can mathematically can prove it is correct
   * Procedural programming is a style of programming where you put everything in modules and put your state as much as possible in procedures (functions).
