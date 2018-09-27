@@ -171,4 +171,4 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
 * Run a compiler (like gcc on mac) for a specific file, run the a.out file that is generated.
 
 ## Arduino
-* You need the [arduino editor](https://www.arduino.cc/en/Main/Software). Copy the code in there, make sure you have the additional library `oneqire 2.3.4`
+* You need the [arduino editor](https://www.arduino.cc/en/Main/Software). Open the code in there and connect it to your Arduino device.
