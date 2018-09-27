@@ -5,6 +5,8 @@
 * Intro - Programming in C
 * Kata - Demo
 * Using C - Intro and Tutorial
+* Imperative and Declarative programming
+* How to run the Code Examples in this repo
 
 ## Intro - Programming in C
 * C = low level programming language
@@ -162,3 +164,7 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
 > 🎓 Read more about [Edgar Dijkstra and the go-to statement](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf), an example of an academic discussion about structural programming
 
 > 🎓 See [this cool presentation about procedural programming](https://prezi.com/gaq2b6rm5h_a/basics-of-procedural-programming/)
+
+# How to run the code examples in this repo
+* Run the a.out file in your terminal
+* Run a compiler (like gcc on mac) for a specific file, run the a.out file that is generated.
