@@ -14,6 +14,8 @@
     * One lower level is Assembly, where you use CPU instructions directly
 * C is a compiled language - which means that in order to run it, the compiler (for example, GCC or Visual Studio) must take the code that we wrote, process it, and then create an executable file. This file can then be executed, and will do what we intended for the program to do.
 
+> 🎓 To help understand C (or any language for that matter), it helps to have a basic idea of how a computer works.[Crash Course - Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=1) (on youtube) and specifically the videos [logic gates](https://www.youtube.com/watch?v=gI-qXk7XojA&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=4), [artihmic and logic unit](https://www.youtube.com/watch?v=1I5ZMmrOfnA&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=6), [registers and ram](https://www.youtube.com/watch?v=fpnE6UAfbtU&index=7&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) and [CPU](https://www.youtube.com/watch?v=FZGugFqdr60&index=8&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) are interesting to understand some of the cool parts of C.
+
 # Kata - Demo
 ## Assignment:
  * Convert hexadecimals into bytes (and then numeral values)
