@@ -1,6 +1,6 @@
 # Imperative and procedural programming in C
 
-# Content
+## Content
 
 * [Intro - Programming in C](#Intro---Programming-in-C)
 * [Kata - Demo](#Kata---Demo)
@@ -9,16 +9,15 @@
 * [How to run the Code Examples in this repo](#How-to-run-the-code-examples-in-this-repo)
 
 # Intro - Programming in C
-* C = low level programming language
-    * It is very close to CPU instructions
-    * Also called, close to the metal
+* C is a low level programming language
+    * It is very close to CPU instructions (also called 'close to the metal')
     * One lower level is Assembly, where you use CPU instructions directly
 * C is a compiled language - which means that in order to run it, the compiler (for example, GCC or Visual Studio) must take the code that we wrote, process it, and then create an executable file. This file can then be executed, and will do what we intended for the program to do.
 
 # Kata - Demo
 ## Assignment:
- * Convert hexadecimals into bytes
- * Your program should take two characters as input (like 'A', and 'B') and should transform it into a numeral value.
+ * Convert hexadecimals into bytes (and then numeral values)
+ * Your program should take two hexadecimal values as input (like 'A', and 'B') and should transform it into a numeral value.
 
 ## Intro
 ### Number systems
@@ -37,14 +36,14 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
 
 1. A byte is some binary data that is 8 bits long:
 
-  |1|2|4|8|16|32|64|128|
+  |128|64|32|16|8|4|2|1|
   |---|---|---|---|---|---|---|---|
-  ||||||||
-  (2<sup>0</sup>)|(2<sup>1</sup>)|(2<sup>2</sup>)|(2<sup>3</sup>)|(2<sup>4</sup>)|(2<sup>5</sup>)|(2<sup>6</sup>)|(2<sup>7</sup>)|
+  |1|0|0|0|0|0|1|1|
+  (2<sup>7</sup>)|(2<sup>6</sup>)|(2<sup>5</sup>)|(2<sup>4</sup>)|(2<sup>3</sup>)|(2<sup>2</sup>)|(2<sup>1</sup>)|(2<sup>0</sup>)|
 
-1. With one byte, you could represent all decimal values up to 256.
-1. When you add the numbers of the first four bits, you get 15, which means you can represent all decimal values up to 15. This is exactly the number of bits you can represent with a hexadecimal.  So you can represent four bits with one hexadecimal.
-1. Which also means that in order to represent eight bits, you need hexadecimal values.
+1. With one byte, you could represent all decimal values up to 256, by adding up the values in the table above (bits). The value currently represented, equals the decimal number 131.
+1. When you add the numbers of the first four bits, you get 15, which means you can represent all decimal values up to 15. This is exactly the number of bits you can represent with a hexadecimal.  Therefore you can represent four bits with one hexadecimal.
+1. Which also means that in order to represent eight bits, you need two hexadecimal values.
 
 > 🎓 4 bits are also called a `nibble`
 
@@ -68,8 +67,10 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
     outcome with or|15| 1|1|1|1|1|
 
 * `<<` - and bitwise operator (also called the `bit-shift`)
-  * multiply with `<<` operators
+  *  often used for multiplying - find more info [here](http://homepages.inf.ed.ac.uk/rbf/HIPR2/bitshift.htm)
 
+> 🎓 For multiplying binary numbers, checkout [this video from Khan Academy](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/binary-multiplication). 
+>
 > 🎓 Checkout all bitwise operators! For example in JavaScript (see [w3-schoos]())
 > ![](https://cd.sseu.re/JavaScript_Bitwise_2018-09-27_11-09-33.png)
 
@@ -147,7 +148,7 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
 *C is an imperative programming language.*
 
 
-* **Imperative vs Declarative language**
+* **Imperative vs Declarative**
 
   | |Imperative|Declarative|
   |---|---|---|
