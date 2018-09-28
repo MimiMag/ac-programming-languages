@@ -20,7 +20,7 @@ void print_list(node_t * head) {
     node_t * current = head;
 
     while (current != NULL) {
-        printf("%d\n", current->val);
+        printf("Node[%d] <-> ",  current->val);
         current = current->next;
     }
 }
