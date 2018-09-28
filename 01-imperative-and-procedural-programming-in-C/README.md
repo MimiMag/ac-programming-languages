@@ -177,3 +177,11 @@ Two hexidecimal values are often used to represent a byte of binary data. Let se
 
 ## Arduino
 * You need the [arduino editor](https://www.arduino.cc/en/Main/Software). Open the code in there and connect it to your Arduino device.
+
+# Interesting Sources
+* [About low(er) and high(er) languages](https://www.makeuseof.com/tag/high-level-low-level-programming-languages/)
+* [On procedural programming](https://prezi.com/gaq2b6rm5h_a/basics-of-procedural-programming/)
+* [Imperative vs Declarative Programming](https://medium.com/front-end-hacking/imperative-versus-declarative-code-whats-the-difference-adc7dd6c8380)
+* [Learn C](https://www.learn-c.org/)
+* [Number systems on Khan Academy](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction)
+* [Number Systems - Brennan](https://owlcation.com/stem/How-to-Convert-Hex-to-Binary-and-Binary-to-Hexadecimal)
