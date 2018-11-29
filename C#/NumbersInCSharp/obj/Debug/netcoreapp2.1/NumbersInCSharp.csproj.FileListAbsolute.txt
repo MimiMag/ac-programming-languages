@@ -1,0 +1,11 @@
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/NumbersInCSharp/bin/Debug/netcoreapp2.1/NumbersInCSharp.deps.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/NumbersInCSharp/bin/Debug/netcoreapp2.1/NumbersInCSharp.runtimeconfig.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/NumbersInCSharp/bin/Debug/netcoreapp2.1/NumbersInCSharp.runtimeconfig.dev.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/NumbersInCSharp/bin/Debug/netcoreapp2.1/NumbersInCSharp.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/NumbersInCSharp/bin/Debug/netcoreapp2.1/NumbersInCSharp.pdb
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/NumbersInCSharp/obj/Debug/netcoreapp2.1/NumbersInCSharp.csprojAssemblyReference.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/NumbersInCSharp/obj/Debug/netcoreapp2.1/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/NumbersInCSharp/obj/Debug/netcoreapp2.1/NumbersInCSharp.AssemblyInfoInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/NumbersInCSharp/obj/Debug/netcoreapp2.1/NumbersInCSharp.AssemblyInfo.cs
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/NumbersInCSharp/obj/Debug/netcoreapp2.1/NumbersInCSharp.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/NumbersInCSharp/obj/Debug/netcoreapp2.1/NumbersInCSharp.pdb
