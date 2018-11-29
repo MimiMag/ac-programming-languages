@@ -1,0 +1,11 @@
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
