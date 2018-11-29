@@ -49,6 +49,31 @@ int sampleVariable;                           // declaring a variable
   double[] doubles = new double[length];
   ```
 
+* In the following example, the namespace declaration provides a way to logically organize your code. This tutorial is relatively small, so you'll put all the code in one namespace.<br/>
+`public class BankAccount` defines the class, or type, you are creating. Everything inside the `{` and `}` that follows the class declaration defines the behavior of the class. There are **five members** of the BankAccount class. The first three are properties. **Properties** are data elements and can have code that enforces validation or other rules. The last two are methods. **Methods** are blocks of code that perform a single function. Reading the names of each of the members should provide enough information for you or another developer to understand what the class does.
+
+```C#
+using System;
+
+namespace classes
+{
+    public class BankAccount
+    {
+        public string Number { get; }
+        public string Owner { get; set; }
+        public decimal Balance { get; }
+
+        public void MakeDeposit(decimal amount, DateTime date, string note)
+        {
+        }
+
+        public void MakeWithdrawal(decimal amount, DateTime date, string note)
+        {
+        }
+    }
+}
+```
+
 
 ## Checkout 
   * Managed language & Garbage Selector
