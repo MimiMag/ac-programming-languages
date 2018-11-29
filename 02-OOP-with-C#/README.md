@@ -1,6 +1,7 @@
 # C\#
 
 ## Why C\#
+C# is a general purpose and object oriented programming language that is widely used in a variety of software.
 
 ## C\# Characteristics
 * The language consists of **statements**, which are terminated by semicolons.  A statement can declare a variable, define an expression, perform a simple action by calling a method, control the flow of execution of other statements, create an object, or assign a value to a variable, property, or field. For example:
