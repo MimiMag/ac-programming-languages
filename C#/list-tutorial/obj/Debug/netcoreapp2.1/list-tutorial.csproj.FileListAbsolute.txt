@@ -1,0 +1,11 @@
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/list-tutorial/obj/Debug/netcoreapp2.1/list-tutorial.csprojAssemblyReference.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/list-tutorial/obj/Debug/netcoreapp2.1/list-tutorial.csproj.CoreCompileInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/list-tutorial/obj/Debug/netcoreapp2.1/list-tutorial.AssemblyInfoInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/list-tutorial/obj/Debug/netcoreapp2.1/list-tutorial.AssemblyInfo.cs
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/list-tutorial/bin/Debug/netcoreapp2.1/list-tutorial.deps.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/list-tutorial/bin/Debug/netcoreapp2.1/list-tutorial.runtimeconfig.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/list-tutorial/bin/Debug/netcoreapp2.1/list-tutorial.runtimeconfig.dev.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/list-tutorial/bin/Debug/netcoreapp2.1/list-tutorial.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/list-tutorial/bin/Debug/netcoreapp2.1/list-tutorial.pdb
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/list-tutorial/obj/Debug/netcoreapp2.1/list-tutorial.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/list-tutorial/obj/Debug/netcoreapp2.1/list-tutorial.pdb
