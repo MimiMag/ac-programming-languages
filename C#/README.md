@@ -52,6 +52,7 @@ int sampleVariable;                           // declaring a variable
 
 ## Checkout 
   * Managed language & Garbage Selector
+  * .Net (tools that make this language run on your computer)
 
 
 ## Useful Sources:
