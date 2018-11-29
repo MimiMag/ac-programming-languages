@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/C#/NumbersInCSharp/NumbersInCSharp.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
