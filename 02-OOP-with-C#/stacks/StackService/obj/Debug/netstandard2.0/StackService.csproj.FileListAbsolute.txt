@@ -1,0 +1,9 @@
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/StackService/bin/Debug/netstandard2.0/StackService.deps.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/StackService/bin/Debug/netstandard2.0/StackService.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/StackService/bin/Debug/netstandard2.0/StackService.pdb
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/StackService/obj/Debug/netstandard2.0/StackService.csprojAssemblyReference.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/StackService/obj/Debug/netstandard2.0/StackService.csproj.CoreCompileInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/StackService/obj/Debug/netstandard2.0/StackService.AssemblyInfoInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/StackService/obj/Debug/netstandard2.0/StackService.AssemblyInfo.cs
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/StackService/obj/Debug/netstandard2.0/StackService.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/StackService/obj/Debug/netstandard2.0/StackService.pdb
