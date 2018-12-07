@@ -75,6 +75,9 @@ namespace classes
 }
 ```
 
+## Generics
+
+
 
 ## Checkout 
   * Managed language & Garbage Selector

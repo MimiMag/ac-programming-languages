@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/unit-testing-using-nunit/PrimeService/PrimeService.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
