@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Stack.Services
 {
   public class StackService
   {
-    public int[] stack;
+    public List<int> stack = new List<int>();
+
     public bool IsStack(int candidate)
     {
       if (candidate == 1)
@@ -14,9 +16,9 @@ namespace Stack.Services
       throw new NotImplementedException("Please create a test first");
     }
 
-    public int[] PushToStack(int number)
+    public void PushToStack(int number)
     {
-        return new int[1] {1};
+        stack.Add(number);
     }
   }
 }
