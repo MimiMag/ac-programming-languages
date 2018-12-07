@@ -29,18 +29,24 @@ namespace Stack.UnitTests.Services
       expected.Add(1);
 
       Assert.AreEqual(expected, result);
+
+      _stackService.ResetStack();
     }
 
-    // [Test]
-    // public void WhenCalledTwiceBothValuesArePushedToStack() 
-    // {
-    //   CallPushToStackTwice(1, 2);
+    [Test]
+    public void WhenCalledTwiceBothValuesArePushedToStack() 
+    {
+      CallPushToStackTwice(1, 2);
 
-    //   var result = _stackService.stack;
-    //   var expected = new int[2] {1, 2};
+      var result = _stackService.stack;
+      var expected = new List<int>();
+      expected.Add(1);
+      expected.Add(2);
 
-    //   Assert.AreEqual(expected, result);
-    // }
+      Assert.AreEqual(expected, result);
+
+      _stackService.ResetStack();
+    }
 
   }
 }

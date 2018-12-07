@@ -20,5 +20,10 @@ namespace Stack.Services
     {
         stack.Add(number);
     }
+
+    public void ResetStack()
+    {
+        stack = new List<int>();
+    }
   }
 }
