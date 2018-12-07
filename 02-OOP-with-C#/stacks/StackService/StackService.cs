@@ -6,6 +6,7 @@ namespace Stack.Services
   public class StackService
   {
     public List<int> stack = new List<int>();
+    public int lastItem;
 
     public void PushToStack(int number)
     {
@@ -16,5 +17,17 @@ namespace Stack.Services
     {
         stack = new List<int>();
     }
+
+    private void AssignLastItem()
+    {
+      lastItem = stack[stack.Count - 1];
+    }
+
+    public void PopFromStack()
+    {
+        AssignLastItem();
+        stack.RemoveAt(stack.Count - 1);
+    }
+
   }
 }
