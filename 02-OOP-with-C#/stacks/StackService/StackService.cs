@@ -29,5 +29,10 @@ namespace Stack.Services
         stack.RemoveAt(stack.Count - 1);
     }
 
+    public void PopAllItems()
+    {
+        
+    }
+
   }
 }
