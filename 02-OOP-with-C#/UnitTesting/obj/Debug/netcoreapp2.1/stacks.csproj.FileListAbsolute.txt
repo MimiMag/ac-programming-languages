@@ -1,0 +1,11 @@
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/bin/Debug/netcoreapp2.1/stacks.deps.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/bin/Debug/netcoreapp2.1/stacks.runtimeconfig.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/bin/Debug/netcoreapp2.1/stacks.runtimeconfig.dev.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/bin/Debug/netcoreapp2.1/stacks.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/bin/Debug/netcoreapp2.1/stacks.pdb
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/obj/Debug/netcoreapp2.1/stacks.csprojAssemblyReference.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/obj/Debug/netcoreapp2.1/stacks.csproj.CoreCompileInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/obj/Debug/netcoreapp2.1/stacks.AssemblyInfoInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/obj/Debug/netcoreapp2.1/stacks.AssemblyInfo.cs
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/obj/Debug/netcoreapp2.1/stacks.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/stacks/obj/Debug/netcoreapp2.1/stacks.pdb
