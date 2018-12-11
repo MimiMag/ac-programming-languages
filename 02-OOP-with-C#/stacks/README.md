@@ -1,4 +1,4 @@
-# Working with stacks
+# WIP - Working with stacks
 
 ## Assignment:
 Write a C# console application that initializes that takes input from the user, numbers, puts them on the stack. When the user types r it will pop all items of the stack and displays them, each item on a new line. q will exit the program.
