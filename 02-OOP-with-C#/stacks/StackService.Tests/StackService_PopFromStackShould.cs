@@ -7,14 +7,16 @@ namespace Stack.UnitTests.Services
   [TestFixture]
   public class StackService_PopFromStackShould
   {
-    private readonly StackService _stackService;
+    private StackService _stackService;
 
-    public StackService_PopFromStackShould()
+    [SetUp]
+    public void SetUp()
     {
       _stackService = new StackService();
+      CreateStack();
     }
 
-    private void createStack()
+    private void CreateStack()
     {
       _stackService.PushToStack(1);
       _stackService.PushToStack(2);
@@ -24,32 +26,27 @@ namespace Stack.UnitTests.Services
     [Test]
     public void ReturnTheLastItemOfTheList()
     {
-      createStack();
-      _stackService.PopFromStack();
+  
       var expected = 3;
-      var result = _stackService.lastItem;
+      var result = _stackService.PopFromStack();
 
       Assert.AreEqual(expected, result);
-      _stackService.ResetStack();
     }
 
     [Test]
     public void RemoveOneItemOfTheList()
     {
-      createStack(); 
       _stackService.PopFromStack();
 
       var expectedLength = 2;
       var result = _stackService.stack;
 
       Assert.AreEqual(expectedLength, result.Count);
-      _stackService.ResetStack();
     }
 
     [Test]
     public void RemoveTheLastItemOfTheList()
     {
-      createStack();
       _stackService.PopFromStack();
 
       var expected = new List<int>();
@@ -59,7 +56,6 @@ namespace Stack.UnitTests.Services
       var result = _stackService.stack;
 
       Assert.AreEqual(expected, result);
-      _stackService.ResetStack();
     }
 
   }
