@@ -24,15 +24,24 @@ namespace Stack.Services
 
     public int PopFromStack()
     {
-        var lastItemIndex = ReturnLastItemIndex();
-        var lastItemValue = stack[lastItemIndex]; 
-        stack.RemoveAt(lastItemIndex);
-        return lastItemValue;
+      var lastItemIndex = ReturnLastItemIndex();
+      var lastItemValue = stack[lastItemIndex]; 
+      stack.RemoveAt(lastItemIndex);
+      // Console.WriteLine($" last item index: {lastItemIndex}");
+      // Console.WriteLine(lastItemValue);
+      return lastItemValue;
     }
 
-    public void PopAllItems()
+    public int[] PopAllItemsAndReturnResult()
     {
-        
+      var numberOfItems = stack.Count;
+      var result = new int[numberOfItems];
+
+      for (int i = 0; i < numberOfItems; i++)
+      {
+        result[i] = PopFromStack();   
+      }
+      return result;
     }
 
   }
