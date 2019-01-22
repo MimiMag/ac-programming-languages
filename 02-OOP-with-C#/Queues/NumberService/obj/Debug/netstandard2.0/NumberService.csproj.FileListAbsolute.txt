@@ -1,0 +1,9 @@
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/bin/Debug/netstandard2.0/NumberService.deps.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/bin/Debug/netstandard2.0/NumberService.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/bin/Debug/netstandard2.0/NumberService.pdb
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/obj/Debug/netstandard2.0/NumberService.csprojAssemblyReference.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/obj/Debug/netstandard2.0/NumberService.csproj.CoreCompileInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/obj/Debug/netstandard2.0/NumberService.AssemblyInfoInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/obj/Debug/netstandard2.0/NumberService.AssemblyInfo.cs
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/obj/Debug/netstandard2.0/NumberService.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/obj/Debug/netstandard2.0/NumberService.pdb
