@@ -36,6 +36,19 @@ namespace Number.UnitTests.Services
       CollectionAssert.Contains(queue, value, $"{value} has not been added to the que!");
     }
 
-    //  Next: should add at the right place
+    [Test]
+    public void NewNumberShouldBeAddedAsTheLastElement()
+    {
+      _numberService.Reset();
+      var queue = _numberService.Queue;
+      int[] expected = new int[] { 1, 2, 3 };
+
+      _numberService.Enqueue(1);
+      _numberService.Enqueue(2);
+      _numberService.Enqueue(3);
+
+      CollectionAssert.AreEqual(queue, expected, "Your numbers seem to be in the wrong order!");
+    }
+
   }
 }
