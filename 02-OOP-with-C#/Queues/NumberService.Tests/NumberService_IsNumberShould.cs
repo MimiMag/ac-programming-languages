@@ -1,6 +1,7 @@
 using NUnit.Framework;
 using Number.Services;
 
+// Example tests
 namespace Number.UnitTests.Services
 {
   [TestFixture]
