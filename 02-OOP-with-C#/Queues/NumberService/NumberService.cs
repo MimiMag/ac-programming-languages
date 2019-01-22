@@ -21,13 +21,22 @@ namespace Number.Services
       Queue.AddLast(value);
     }
 
-    public void Reset() {
+    public void Reset()
+    {
       Queue = new LinkedList<int>();
     }
 
-    // int Dequeue()
-    // bool IsEmpty()
-    // bool IsFull()
+    public int Dequeue()
+    {
+      if (Queue.Count > 0)
+      {
+        foreach (var item in Queue)
+        {
+          return item;
+        };
+      }
+      return 0;
+    }
 
   }
 }

@@ -28,10 +28,7 @@ namespace Number.Services
         {
           //Print 
           Console.WriteLine("Print");
-          foreach (var item in _numberService.Queue)
-          {
-            Console.WriteLine($"{item}, ");
-          };
+          Console.WriteLine(_numberService.Dequeue());
           //Reset 
           _numberService.Reset();
         }
@@ -46,7 +43,6 @@ namespace Number.Services
         if (int.TryParse(inputFromConsole, out int inputNumber))
         {
           //Add inputNumber to the data structure
-          _numberService.Enqueue(inputNumber);
           Console.WriteLine($"Added {inputNumber}.");
 
         }
