@@ -1,0 +1,11 @@
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/bin/Debug/netcoreapp2.1/NumberService.deps.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/bin/Debug/netcoreapp2.1/NumberService.runtimeconfig.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/bin/Debug/netcoreapp2.1/NumberService.runtimeconfig.dev.json
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/bin/Debug/netcoreapp2.1/NumberService.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/bin/Debug/netcoreapp2.1/NumberService.pdb
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/obj/Debug/netcoreapp2.1/NumberService.csprojAssemblyReference.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/obj/Debug/netcoreapp2.1/NumberService.csproj.CoreCompileInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/obj/Debug/netcoreapp2.1/NumberService.AssemblyInfoInputs.cache
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/obj/Debug/netcoreapp2.1/NumberService.AssemblyInfo.cs
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/obj/Debug/netcoreapp2.1/NumberService.dll
+/Users/mimi/Code/Learn/Advanced_Classes/ProgrammingLanguages/02-OOP-with-C#/Queues/NumberService/obj/Debug/netcoreapp2.1/NumberService.pdb
